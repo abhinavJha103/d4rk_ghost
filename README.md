@@ -1,9 +1,6 @@
 # d4rk_ghost
 
 
-Quote - __"A Failure person is more intelligent than toppers or scholars"__
-
----
 
 # Note
 
