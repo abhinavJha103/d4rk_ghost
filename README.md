@@ -4,7 +4,7 @@
 
 # Note
 
-__This Repository Is Currently Not Being Updated. And the Functions and methods  that I have Used previously 
+This Repository Is Currently Not Being Updated. And the Functions and methods  that I have Used previously 
  in this Application is not more supported .  it is deprecated . Will Update it Soon . 
 
 
