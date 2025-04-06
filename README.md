@@ -4,7 +4,9 @@
 
 # Note
 
-This Repository Is Currently Not Being Updated. 
+**This Repository Is Currently Not Being Updated. And the Functions and methods  that I have Used previously 
+ in this Application is not more supported .  it is deprecated . Will Update it Soon . **
+
 Please Only use this framework for educational purpose.
 
  ---
@@ -26,7 +28,7 @@ s0u1 - [s0u1](https://github.com/HLoTW)
 # Version
 d4rk Ghost Framework - Version 2.0
 
-__Here i have fixed bugs and make this tool more robust but i have not added new modules yet but in next version i will sure add.__
+Here i have fixed bugs and make this tool more robust but i have not added new modules yet but in next version i will sure add.__
 
 ---
 
