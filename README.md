@@ -4,8 +4,9 @@
 
 # Note
 
-**This Repository Is Currently Not Being Updated. And the Functions and methods  that I have Used previously 
- in this Application is not more supported .  it is deprecated . Will Update it Soon . **
+__This Repository Is Currently Not Being Updated. And the Functions and methods  that I have Used previously 
+ in this Application is not more supported .  it is deprecated . Will Update it Soon . 
+
 
 Please Only use this framework for educational purpose.
 
